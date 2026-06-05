@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%21+I'm+Ragavi+Raksha+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;I+build+apps+that+feed+people+%F0%9F%8D%B1+%26+save+lives+%F0%9F%9A%A8;Google+Solution+Challenge+2025+Participant+%F0%9F%8C%8D;Currently+pursuing+B.E.+CSE+%7C+CGPA%3A+8.89+%2F+10" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%21+I'm+Ragavi+Raksha+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;I+build+apps+that+feed+people+%F0%9F%8D%B1+%26+save+lives+%F0%9F%9A%A8;Google+Solution+Challenge+2025+Participant+%F0%9F%8C%8D;Currently+pursuing+B.E.+CSE" alt="Typing SVG" />
 </div>
 
 <br/>
