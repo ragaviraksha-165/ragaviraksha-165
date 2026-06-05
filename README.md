@@ -180,7 +180,7 @@ class RagaviRaksha:
 | 🌍 | **Google Solution Challenge 2025** | Submitted **Vayal-AI** · Selected in **SIH Internals** |
 | 🥈 | **Inter-College Hackathon** | **Runner-Up** — Lifebite (Food Donation Platform) |
 | 🥈 | **Apple-X-Fest** | **2nd Place** — ResQNet (Accident Detection System) |
-| 💡 | **INNOCLASH 2026** | **"Idea Spark Award"** — Innovation in Accident Detection |
+| 💡 | **INNOCLASH 2026** 🌐 *(International Hackathon)* | **"Idea Spark Award"** — Innovation in Accident Detection |
 | 🎓 | **NPTEL** | **Elite Certification** — Programming in Java |
 | ✈️ | **Universiti Tun Hussein Onn Malaysia (UTHM)** | **International Mobility** — Cybersafe Discovery 2026 |
 | 🏅 | **Honours Diploma in Full Stack Development** | HDFD Certified |
@@ -242,4 +242,3 @@ class RagaviRaksha:
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" />
-
