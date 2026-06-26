@@ -40,7 +40,6 @@ class RagaviRaksha:
         "degree"  : "B.E. Computer Science & Engineering",
         "college" : "Rajalakshmi Institute of Technology",
         "batch"   : "2024 – 2028",
-        "cgpa"    : 8.89
     }
 
     stack = {
@@ -52,7 +51,7 @@ class RagaviRaksha:
 
     currently_learning = [
         "RAG & LLM Integration 🤖",
-        "Cloud & DevOps (Docker, AWS) ☁️",
+        "Cloud & DevOps (Azure, AWS, Docker) ☁️",
         "System Design at Scale 🏗️",
     ]
 
