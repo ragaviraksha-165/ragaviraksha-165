@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%21+I'm+Ragavi+Raksha+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;I+build+apps+that+feed+people+%F0%9F%8D%B1+%26+save+lives+%F0%9F%9A%A8;Google+Solution+Challenge+2025+Participant+%F0%9F%8C%8D;Currently+pursuing+B.E.+CSE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%21+I'm+Ragavi+Raksha+%F0%9F%91%8B;AI+%2B+Cloud Enthusiast+%F0%9F%87%AE%F0%9F%87%B3;I+build+apps+that+feed+people+%F0%9F%8D%B1+%26+save+lives+%F0%9F%9A%A8;Google+Solution+Challenge+2025+Participant+%F0%9F%8C%8D;Currently+pursuing+B.E.+CSE" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -28,34 +28,49 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+
 ```python
 class RagaviRaksha:
 
-    name     = "Ragavi Raksha V"
-    pronouns = "she/her"
-    location = "Chennai, India 🌏"
-    email    = "ragaviraksha165@gmail.com"
+    name = "Ragavi Raksha V"
+
+    role = "AI & Cloud Enthusiast"
+
+    location = "Chennai, India 🇮🇳"
 
     education = {
-        "degree"  : "B.E. Computer Science & Engineering",
-        "college" : "Rajalakshmi Institute of Technology",
-        "batch"   : "2024 – 2028",
+        "Degree": "B.E. Computer Science & Engineering",
+        "College": "Rajalakshmi Institute of Technology",
     }
 
-    stack = {
-        "languages"  : ["Python", "Java", "C", "JavaScript"],
-        "frontend"   : ["React.js", "HTML5", "CSS3"],
-        "backend"    : ["Node.js", "Spring Boot"],
-        "databases"  : ["MongoDB", "Firebase", "MySQL", "Supabase"],
-    }
-
-    currently_learning = [
-        "RAG & LLM Integration 🤖",
-        "Cloud & DevOps (Azure, AWS, Docker) ☁️",
-        "System Design at Scale 🏗️",
+    interests = [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Cloud Computing",
+        "Machine Learning",
+        "AI Agents",
+        "Automation"
     ]
 
-    fun_fact = "I build apps that feed people 🍱, save lives 🚨 & empower farmers 🌾"
+    currently_learning = [
+        "Microsoft Azure ☁️",
+        "AWS Fundamentals",
+        "LLMs",
+        "RAG Pipelines",
+        "Vector Databases",
+        "n8n",
+        "Model Context Protocol (MCP)",
+        "Docker",
+        "System Design"
+    ]
+
+    building = [
+        "AI Applications",
+        "Cloud Native Projects",
+        "AI Agents"
+    ]
+
+    mission = "Using AI to solve real-world problems that create social impact"
 
     def motto(self):
         return "Code with purpose. Build with impact. 🚀"
@@ -96,7 +111,13 @@ class RagaviRaksha:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure%20AI%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -186,30 +207,12 @@ class RagaviRaksha:
 
 </div>
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 📚 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
-|:---------:|:--------------:|:-------:|:--------:|
-| B.E. Computer Science & Engineering | Rajalakshmi Institute of Technology | 2024 – 2028 | **CGPA 8.89 / 10** |
-| Senior Secondary (XII) · CBSE | Lightworkers Academy | 2024 | **80%** |
-| Secondary (X) · State Board | Maharishi Vidya Mandir Higher Secondary School | 2022 | **90%** |
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 ```bash
 🤖  AI & ML          →  RAG Pipelines · LLM Integration · Vector Databases · Prompt Engineering
 ☁️   Cloud & DevOps   →  Docker · GitHub Actions · AWS Fundamentals · CI/CD
 🏗️   System Design    →  Microservices · Scalability Patterns · REST API Best Practices
-🔐  Cybersecurity    →  Ethical Hacking Basics · Secure Coding · UTHM Cybersafe Discovery 2026
-📱  Mobile Dev       →  Sensor-Based Android Dev (GPS · Accelerometer · Gyroscope)
 ```
 
 ---
