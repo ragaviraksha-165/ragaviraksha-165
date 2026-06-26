@@ -1,5 +1,5 @@
 <a href="https://github.com/ragaviraksha-165">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ragavi%20Raksha%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Engineer%20%7C%20AI%20%2B%20Full%20Stack%20Developer%20%7C%20Building%20Tech%20for%20Social%20Impact&descAlignY=60&descSize=15" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ragavi%20Raksha%20V&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20Cloud%20Enthusiast%20%7C%20Building%20Technology%20That%20Matters&descAlignY=60&descSize=16" />
 </a>
 
 <div align="center">
